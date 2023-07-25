@@ -27,9 +27,9 @@
   "homepage": "https://github.com/highcharts/highcharts-react-native#readme",
   "author": "Highcharts",
   "peerDependencies": {
-    "react": "~16.11.0",
-    "react-native": "^0.63.2",
-    "react-native-webview": "^10.6.0"
+    "react": "16.13.1",
+    "react-native": "0.63.5",
+    "react-native-webview": "10.6.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
