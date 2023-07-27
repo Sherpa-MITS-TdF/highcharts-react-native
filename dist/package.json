@@ -4,7 +4,7 @@
   "license": "SEE LICENSE IN <LICENSE>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/highcharts/highcharts-react-native-official.git"
+    "url": "git+https://github.com/Sherpa-MITS-TdF/highcharts-react-native.git"
   },
   "dependencies": {
     "metro-config": "^0.60.0",
