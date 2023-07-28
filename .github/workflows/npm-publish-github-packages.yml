@@ -20,8 +20,7 @@ jobs:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
           scope: '@Sherpa-MITS-TdF'
-      - run: cd ./dist
-      - run: yarn
+      - run: cd "./dist" && yarn
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
