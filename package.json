@@ -35,7 +35,7 @@
   ],
   "homepage": "https://github.com/Sherpa-MITS-TdF/highcharts-react-native#readme",
   "dependencies": {
-    "@highcharts/highcharts-react-native": "./dist/",
+    "@sherpa-mits-tdf/highcharts-react-native": "./dist/",
     "expo": "~38.0.8",
     "react": "16.13.1",
     "react-dom": "16.13.1",
